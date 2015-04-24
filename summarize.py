@@ -1,11 +1,10 @@
 from collections import Counter
 
-import nltk
-from nltk.probability import FreqDist
 from nltk.tokenize import RegexpTokenizer
 from nltk.tokenize.punkt import PunktSentenceTokenizer
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
+
 
 class PrivacyPolicySummarizer:
 
@@ -22,7 +21,7 @@ class PrivacyPolicySummarizer:
             stopw = stopwords.words('english')
 
         stemmer = PorterStemmer()
-        tokens = Counter() 
+        tokens = Counter()
         for w in words:
             w = w.lower()
             if w not in stopw:

@@ -1,0 +1,19 @@
+Privacy Policy
+2014年10月14日星期二
+Emoji Keyboard - Privacy Policy
+1. Privacy
+
+Protecting your personal data and maintaining your trust is core to our mission.Please feel free to use it.
+If you are not logged into our keyboard server ,we do not collect data from your device . If you are logged in, we will only collect data that can help us improve our keyboard.Such as app crash data which can help us to fix it , search content which can help us to give you exactly what you want .
+
+
+You may receive a warning when activating Emoji Keyboard saying “This keyboard may collect your personal data.” We take your privacy seriously. Emoji Keyboard does not collect your private data including password or credit card info. The warning message when you enable the keyboard is a standard message in Android for ANY third-party keyboard app.
+2. Updates 
+Periodically, we may make updates to this privacy policy, which will be posted on our web site and within our application. Please check these sources regularly to view our most recent policy.
+
+3. CHANGE OF CONTROL
+
+If we sell or otherwise transfer part or the whole of Emoji Keyboard or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution or liquidation), information from or about our users may be among the items sold or transferred.
+
+However this will not affect your rights or our obligations under this privacy policy.
+

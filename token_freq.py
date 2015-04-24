@@ -1,13 +1,15 @@
-import nltk, nltk.stem as st
-import sys
+#
+#
+#
+import nltk
+import nltk.stem as stem
 import os
 from collections import Counter
 import matplotlib.pyplot as plt
 import numpy as np
 
 dirname = 'policies'
-#stemmer = nltk.stem.WordNetLemmatizer()
-stemmer = st.PorterStemmer()
+stemmer = stem.PorterStemmer()
 stemmed_toks = Counter()
 
 for f in os.listdir(dirname):
@@ -25,6 +27,7 @@ for w in blacklist:
         del stemmed_toks[w]
 
 print(stemmed_toks.most_common(30))
+
 
 def plot_word_freq_dist(tokens_tuples, log=False):
     plt.title('Tokens vs. frequency')
