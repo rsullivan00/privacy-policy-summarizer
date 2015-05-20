@@ -1,3 +1,0 @@
-We at King respect the privacy of everyone who uses our corporate website (which can be found via the urls http://about.king.com or http://company.king.com, and/or any sub-page thereof), and any services related to those websites which we may provide to you from time to time (together the “Website”).
-By accessing and/or using our Website you consent to us collecting, processing, storing and sharing your Personal Information in the ways set out in this Privacy Policy.
-If you object to any of the changes you should immediately stop using our Services and close any account you may have with us.

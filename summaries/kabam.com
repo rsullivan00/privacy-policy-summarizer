@@ -1,9 +1,0 @@
-By way of example only, Kabam may access and/or collect some or all of the following information from your Third Party Platform account when you use or connect to a Kabam Website or Service on or through a Third Party Platform (collectively, "Third Party Platform Information"):
-Profile Information: For some Kabam Websites or Services, you may also have the option of providing additional information about yourself to create a user profile ("Profile") that will be publically viewable by others.
-If you provide us with your Contact Information, we will store it unless you instruct otherwise by submitting a request to privacypolicy@kabam.com and we will use this information to help you and your contacts connect on our Websites and Services.
-We may use and share with third parties Technical Information or Aggregate Information to show general demographic and preference information among Kabam users.
-More information on session cookies and what they are used for can be found at http://www.allaboutcookies.org/cookies/session-cookies-used-for.html .
-In some cases, when you provide information to us using a third-party interface, your information may be collected subject to the third party’s privacy policy.
-We may use and share with third party advertisers (and other third parties) certain Technical Information and/or Aggregate Information to show general demographic and preference information among Kabam users.
-As discussed, you can always choose not to provide certain information to us but you may not be able to use certain features of the Websites or Services.
-You may also submit any requests for access to your personal data to privacypolicy@kabam.com or in writing to Attn: Privacy Kabam, Inc.

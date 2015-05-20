@@ -1,5 +1,0 @@
-This Application collects some Personal Data from its Users.
-Analytics
-Infrastructure monitoring
-Location-based interactions
-Further information about Personal Data

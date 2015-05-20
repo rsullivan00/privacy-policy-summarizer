@@ -1,8 +1,0 @@
-If you use these features and services, please understand that the third parties that operate them may collect information from you which will be used in accordance with their own privacy policy and terms of use, which may differ from ours.
-When you use the Service, certain information may be stored locally on your mobile device using 'cookies' or similar technologies such as objects stored in the Service's local storage on the device that you are using.
-We access this information when you use the Service for reporting and analytics purposes.
-What it does: This cookie collects information that is used in aggregate form to help us understand how the Service is being used and to enhance the performance of the Service.
-Tick or clear Accept cookies.
-It may also affect your ability to use the Service.
-We may deliver advertising to you in conjunction with your use of Service.
-As mentioned above, we may share the personal information you provide to us with our third party Service Providers for the purposes described in this Privacy Policy.

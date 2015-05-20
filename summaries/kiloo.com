@@ -1,1 +1,0 @@
-Usage Information: We collect information relating to your use of our Services, including which applications you use and your game progress, scores, achievements and interactions with other players.
