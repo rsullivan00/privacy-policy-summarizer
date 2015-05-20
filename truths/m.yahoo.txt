@@ -1,0 +1,5 @@
+Yahoo's mobile products may let users store preferences like their location, safe search settings, and favorite widgets. 
+Yahoo may use these preferences to personalize users’ experience across Yahoo products and services and across devices.
+    * You must first provide permission through your device, browser or with Yahoo directly, before Yahoo obtains pinpointed physical location information from technologies like GPS, Wi-Fi, or cell tower proximity.
+Yahoo does not rent, sell, or share your personal information with other people or nonaffiliated companies, except to offer products or services you've requested, or under the following circumstances:
+    * We provide the information to trusted partners who work on behalf of or with Yahoo under confidentiality agreements.

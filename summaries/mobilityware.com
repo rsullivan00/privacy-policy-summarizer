@@ -1,0 +1,3 @@
+This License Agreement and Privacy Disclosure sets forth the terms for your use of this App and the information we collect and how it is used.
+If you choose to send us e-mail for customer support reasons, your e-mail address will be used only to communicate with you to solve your problem.
+This information is used in aggregate form to help us improve the entertainment value of the App and to set priorities for future features.

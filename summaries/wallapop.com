@@ -1,0 +1,3 @@
+The User undertakes not to transfer, introduce, spread or make available to third parties any kind of material and information (data, contents, messages, drawings, sound and image files, photographs, software, etc.)
+If the User considers there to be a Linked Site with unlawful or improper content, he/she may inform Wallapop thereof.
+The User assigns Wallapop, free of charge, the rights of public communication, reproduction, distribution and processing over said Content, in all forms of exploitation existing as of the date of acceptance of these Legal Terms and Conditions.

@@ -1,0 +1,103 @@
+Menu
+
+PRIVACY POLICY (UPDATED JANUARY 29, 2015)
+
+Smule, Inc. (“Smule” or “we”) shares the concerns of users of our applications and websites (“you”) about the protection of your personal information. This is our policy regarding the privacy of information we collect inside our applications and websites. This privacy policy applies to the smule.com website and all of the internet-accessible web properties and applications owned or operated by Smule (the “Services”). This policy does not apply to the practices of companies that we do not own or control.
+
+By using our Services you understand and agree that we are providing a website and applications intended for you to create and share musical content (“Content”) publicly. This means that other users may search for, see, use, or share any Content submitted by you that you make publicly available through the Services, consistent with the terms and conditions of this Privacy Policy and our Terms of Service, which can be found at http://www.smule.com/termsofservice. By installing, using, or accessing the Services, you agree to this policy. If you do not agree to this policy, do not install, use, or access our applications or websites. We may update this policy from time to time and will post updates to this policy on this web page, including the policy’s effective date.
+
+1. INFORMATION COLLECTION AND USE
+
+We collect and use your information as described below to provide the Services and to measure and improve them over time.
+
+INFORMATION THAT YOU PROVIDE TO US DIRECTLY
+
+Basic account information
+
+In order to register for a Smule account on our website or in our applications, you are required to provide us with certain pieces of information, such as your email address, username and password. Your user name is listed publicly on our Services, including in search results. We may use your email address to send you information about our Services, provide customer support or to notify you of additional Smule products and services. You may use your account settings to unsubscribe from notifications from Smule.
+
+Additional profile information
+
+You may also choose to provide us with additional profile information to make public, such as a picture, your location and an additional blurb about yourself.
+
+Information from third party social network accounts
+
+If you sign into our applications or the Smule website with a third party social network, such as Facebook Connect, we will collect any information that you have agreed to make available to Smule through such account, which may include: (1) your first and last name, (2) your user ID/URL, (3) your profile picture, (4) your list of friends, (5) your email address, and/or (6) your birthday. This information will be primarily used for user registration and to enhance your social experience on our websites and applications, which may include friend-to-friend interaction and notifications, chat, or messaging functionality, public leaderboards, head-to-head competition and other similar features. If you sign into Smule with a third party social network and agree to make your list of friends on such network available to Smule, your friends on such network will automatically follow you on our websites and applications and your Smule account will be automatically configured to follow your friends. You can, however, unfollow any other user on Smule at any time.
+
+Content, following and other public information
+
+Smule’s Services are designed to help you create and share Content. Most of the information you provide us is information you are asking us to make public. This includes the Content you create and the metadata associated with it, such as when you created it, the people you follow, the songs you mark as favorites or share, and your comments on Content provided by other users. We may use this information and other information that results from your use of the Services to customize the content we show you, including ads. When you share information or Content via the Services, you should think carefully about what you are making public.
+
+Public forums
+
+Forums, message boards, blogs and/or news groups may be available to you through our Services. Please remember that any information disclosed in these areas becomes public information. If you post personal information online that is accessible to the public, you may receive unsolicited responses. You should exercise caution when deciding to disclose any of your personal information in a public forum.
+
+Surveys and contests
+
+We sometimes conduct or sponsor surveys and contests. Participation in surveys and contests is completely voluntary. If you elect to participate, we may ask you for contact, demographic, and other information. We use this information to understand our users and their use of our Services, to improve our websites and applications, and may provide users with the results of such surveys and contests.
+
+INFORMATION THAT WE GET FROM YOUR USE OF THE SERVICES
+
+Log data and location information
+
+When you use our Services, we automatically collect certain log data, including your IP address, browser type, hardware type, unique device ID, the version of your operating system, your activity within the Services, and your location (based on opt-in location-based services, which rely upon a device’s GPS coordinates). We use this information to administer, troubleshoot and improve our Services, and to help us understand how you and our other users use our Services. We may also collect similar information from emails sent to our users, which helps us track which emails are opened and which links are clicked by recipients.
+
+Cookies and similar technologies
+
+Our websites and applications use cookies, which deposit certain record keeping information on your computer or mobile device, and other similar technologies, to collect usage data, to keep track of your preferences, to deliver Content and advertising specific to your interests and for other similar purposes. These cookies can't read other data from your hard drive or read cookie files created by other sites or applications. Most browsers are set to accept cookies unless you reconfigure your browser to refuse them or to notify you when you will have received one. If you do not accept cookies, you will not be able to use certain features of the Services. We may also ask advertisers or other partners to serve ads or services to your devices, which may use cookies or similar technologies placed by us or such third party.
+
+Third-party platforms and marketplaces
+
+Third-party libraries included in our applications collect device information and user activity within the application. Third-party platforms and marketplaces through which our applications are made available may collect information about you or receive information from us in order to provide or analyze their services. These third-party platforms and marketplaces are neither developed nor administered by us and we are not responsible for the actions of those third-parties. You should carefully review the terms of service and privacy policies of any third-party platforms or marketplaces that you use to access our applications.
+
+Google Analytics
+
+We use Google Analytics’ Demographics and Interest Reporting feature to collect information about use of the smule.com website. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We will not facilitate the merging of personally identifiable information with non-personally identifiable information collected through Google Analytics unless we have given you notice of that merger. You may opt-out of Google Analytics tracking with the Google Analytics opt-out browser add-on.
+
+2. INFORMATION SHARING AND DISCLOSURE
+
+We do not sell or disclose your personal information to unaffiliated third parties except under the circumstances described in this privacy policy.
+
+Other users
+
+Any information in your public profile (e.g., your username and any profile image, location or additional information that you provide as part of your public profile, but not your first and last name or email address) will be accessible by other users of the Services. Content that you create through or upload to the Services will by default be public and available to users of the Services. For information about how to change your privacy settings with respect to Content or delete Content from the Services, see the frequently asked questions at www.smule.com/support. Similarly, if you comment on any Content on the Services, your comments will be public and available to users of the Services.
+
+With your consent
+
+We may disclose your information when we have your express permission.
+
+Advertisers and other business partners
+
+We may share demographic and other general information about our users or the use of the Services with our advertisers and partners on an aggregate basis. This means that we may tell our advertisers general information about the characteristics of our user base, but we do not specifically identify a particular user or visitor by name or provide the user’s contact information. We may share your unique device ID and/or your location (based on opt-in location-based services, which rely upon a device’s GPS coordinates) with third parties, including advertisers and partners, or provide reports to such parties about the number of unique users who saw or clicked on their advertisements. We may also share certain information such as cookie data with third-party advertising partners. This information, among other things, allows third-party ad networks to deliver targeted advertisements that they believe will be of most interest to you.
+
+Service providers
+
+We may disclose your information on a confidential basis to nonaffiliated service providers we engage to perform services for us in connection with our provision of the Services. Information will be shared with such service providers only to the extent reasonably necessary for them to perform such services.
+
+If required by law
+
+We may preserve and disclose your information if we believe in good faith that we are required to do so by law or regulation, including in response to a court order, subpoena or other legal demand or request.
+
+Safety and security
+
+We may preserve and disclose your information if we believe that it is reasonably necessary to protect the safety of any person, to address fraud, security or technical issues, or to protect Smule’s rights or property.
+
+Change of control
+
+If Smule is acquired by or merged with another company, we will notify you before information about you is transferred and becomes subject to a different privacy policy.
+
+3. SECURITY
+
+Our websites have certain security measures in place in effort to protect the loss, misuse, and alteration of the information under our control.
+
+4. OTHER WEBSITES AND APPLICATIONS
+
+The Services contain links to third-party websites and applications. We are not responsible for the privacy practices or the content of such websites or applications. You may wish to review the privacy policies of those websites and applications before use.
+
+5. CORRECTING AND UPDATING INFORMATION; DELETING YOUR ACCOUNT
+
+We offer the ability to correct or update online the information collected during registration via your account settings on our website or the applicable application or by contacting support via our online support form. You may request deletion of your account by contacting support via our online support form.
+
+6. CHILDREN'S PRIVACY
+
+Our applications and websites are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us via our online support form. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.

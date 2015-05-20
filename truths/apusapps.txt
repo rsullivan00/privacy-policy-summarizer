@@ -1,0 +1,5 @@
+We use this information to improve the basic quality of the APUS Launcher to ensure that it is fast, stable in user’s phone.
+We do not save or upload your contacts. We just use this permission to read your contacts when you initiate contact searching, and display possible results.
+We only detect whether you have a Google account in the phone.
+The only purpose using this permission is to display apps that surrounding users installed anonymously, and recommend popular apps based on current location in APUS Radar.
+We do not save or upload your messages.

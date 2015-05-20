@@ -1,0 +1,5 @@
+Our primary goals in collecting and using information are to provide and improve the Service, to administer and assist you in administering your Account on the Service, and to provide you with a better experience with the Service.
+  TerranDroid may collect personal and non-personal information from you when you use the Service.
+  We use your information to provide you with a better user experience, to improve the quality and value of the Service and to analyze and evaluate how the Service is used.
+We may also use your information to serve you specifically, e.g. by delivering advertisements to you according to your preferences or restrictions.
+  When you launch any of our applications, we collect information regarding your device type, operating system and version, carrier provider, IP address, Media Access Control (MAC) address, International Equipment Mobile ID (IMEI), whether you are using a point package, the game version, the device’s geo-location, language settings, and unique device ID.

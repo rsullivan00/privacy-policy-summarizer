@@ -1,0 +1,5 @@
+• Information about malicious applications, files and other potential threats on your tablet, mobile phone or other applicable device and their behaviors and origins;
+• Information about your device including device ID, apps of the third party installed on the device, manufacturer of the device, internet history and bookmarks, screen size and model of the device, the mobile network you use but not the phone number;
+• to better understand how you access and use our services, for the purposes of trying to improve our services and to respond to customer desires and preferences, including language and location customisation, personalized help and instructions, or other responses to your and other customers’ usage of our services;
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+We will access, use or disclose your information with other organizations or entities for reasons that required by any applicable law, regulation, legal process or enforceable governmental request;

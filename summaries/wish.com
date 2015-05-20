@@ -1,0 +1,2 @@
+Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect.
+As stated in this Privacy Policy, ContextLogic will not sell or share your Personal Information with non-ContextLogic companies for their direct marketing purposes without your consent.

@@ -1,0 +1,109 @@
+MobilityWare License Agreement and Privacy Disclosure
+
+Introduction
+
+Thank you for downloading this App. This License Agreement and Privacy Disclosure sets forth the terms for your use of this App and the information we collect and how it is used. By using or installing this app you agree to the terms of this License Agreement and Privacy Disclosure. If you disagree with these terms, don't use this app. If this is a free version of the app, it is Ad supported. The Privacy Disclosure has important information regarding Third Party Ad serving.
+
+End User License Agreement
+
+MobilityWare grants you a personal, non-exclusive, non-transferable, revocable limited License subject to the following:
+
+Use of this App is solely for your own personal use.
+
+You agree not to play this App while driving a car, flying an airplane, or any other use where the excitement and distraction of playing could create a hazard to you or others around you.
+
+Use of the Licensed App is on any Android based smartphone or tablet that you own or control as permitted by the Usage rules set forth in the Google Play or Amazon Appstore Terms of Use.
+
+You may not copy, distribute, modify, disassemble, or create derivative works based upon this App.
+
+MobilityWare owns and retains all right, title, and interest in and to the Software, including patents, trademarks, copyrights, trade secrets and other intellectual property rights embodied or contained therein.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MOBILITYWARE DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT WITH RESPECT TO THE SOFTWARE. MOBILITYWARE MAKES NO WARRANTY THAT THE SOFTWARE WILL BE ERROR FREE OR FREE FROM INTERRUPTION OR FAILURE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL MOBILITYWARE BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE.
+
+We reserve the right to modify this License at any time; see www.mobilityware.com/androideulaprivacy.php for changes. Your continued use of this App signifies your acceptance of the changes to this License.
+
+Privacy Disclosure
+
+Personally Identifiable Information
+
+MobilityWare does not collect personally identifiable information such as names, social security numbers, addresses, e-mail addresses, gender identity, affiliations, age, height, weight, id photos, etc. If you choose to send us e-mail for customer support reasons, your e-mail address will be used only to communicate with you to solve your problem. If you voluntarily give us any personal information for other promotions or contests, we do not share or sell this to other third parties.
+
+Third Party Ad Serving
+
+Third party Ad networks supply ads for display in this app so that we can offer it to you for free. These networks may collect and use your device MAC address, and/or IP addresses, in native or hashed forms, for purposes of controlling how often you see the ad, delivering ads of interest, and measuring the effectiveness of the ads.
+
+See Appendix A below for the current list of Ad Networks and other Third party technologies or services we use, their Privacy Policy links, and if applicable, Opt out links for ad tracking.
+
+This privacy policy is located at www.mobilityware.com/androideulaprivacy.php, and it will contain the latest disclosures. You agree to examine this from time to time and that updates to that document are incorporated herein by reference.
+
+Aggregated Usage and App Statistics
+
+We collect anonymous aggregated usage statistics of game play and configuration options. We use this information to determine how users play the App, how often certain features are used, etc. This information is used in aggregate form to help us improve the entertainment value of the App and to set priorities for future features.
+
+Contact Information
+
+Should you have any questions concerning this Agreement and Disclosure, or if you desire to contact MobilityWare for any reason, please email support@mobilityware.com, call 949-788-9900, fax 949-453-2001, or write: MobilityWare, 310 Commerce, Suite 250, Irvine, California 92602.
+
+Appendix A: Ad Partner Privacy Policies
+
+Chartboost
+
+Privacy Policy
+
+https://help.chartboost.com/legal/privacy
+
+Opt out
+
+https://help.chartboost.com/legal/privacy
+
+Flurry
+
+Privacy Policy
+
+http://www.flurry.com/resources/privacy.html
+
+Opt out
+
+http://www.flurry.com/resources/privacy.html
+
+Google
+
+Privacy Policy
+
+http://www.google.com/policies/privacy/ads/
+
+Opt out
+
+http://www.google.com/policies/privacy/ads/
+
+Greystripe
+
+Privacy Policy
+
+http://www.greystripe.com/aboutgreystripe/privacypolicy/
+
+Opt out
+
+http://www.greystripe.com/aboutgreystripe/privacypolicy/
+
+Tapjoy
+
+Privacy Policy
+
+http://info.tapjoy.com/about-tapjoy/privacy-policy/
+
+Opt out
+
+http://info.tapjoy.com/about-tapjoy/privacy-policy/
+
+Tremor Video
+
+Privacy Policy
+
+http://www.tremorvideo.com/about-us/privacy/
+
+Opt out
+
+http://www.tremorvideo.com/about-us/privacy/

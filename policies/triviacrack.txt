@@ -1,0 +1,201 @@
+Etermax
+
+Toggle navigation
+
+Terms of Service
+
+Privacy Policy
+
+Rules
+
+Trivia Crack Privacy Policy
+
+This Privacy Policy describes how and when Etermax collects, uses and shares your information when you use our Services.
+
+Etermax receives your information through our various websites, SMS, APIs, email notifications, applications, buttons, widgets, and ads (the "Services" or "Trivia Crack") and from our partners and other third parties.
+
+For example, you send us information when you use Trivia Crack from our website or access Trivia Crack from an application such as Trivia Crack for iOS, Trivia Crack for Android, Trivia Crack for Windows Phone, Trivia Crack for Amazon Kindle Fire or Trivia Crack for Facebook.
+
+When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
+
+Irrespective of which country you reside in or supply information from, you authorize Trivia Crack to use your information in Argentina and any other country where Trivia Crack operates.
+
+If you have any questions or comments about this Privacy Policy, please contact us at support@etermax.com.
+
+Information Collection and Use
+
+Information Collected Upon Registration:
+
+When you create or reconfigure a Trivia Crack account, you provide some personal information, such as your name, username, password, and email address.
+
+Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results.
+
+Additional Information:
+
+You may provide us with profile information to make public, such as a short biography, your location, your website, or a picture.
+
+You may provide information to customize your account, such as a cell phone number for the delivery of SMS messages.
+
+We may use your contact information to send you information about our Services or to market to you.
+
+You may use your account settings to unsubscribe from notifications from Trivia Crack.
+
+You may also unsubscribe by following the instructions contained within the notification or the instructions on our website.
+
+We may use your contact information to help others find your Trivia Crack account, including through third-party services and client applications.
+
+Your privacy settings control whether others can find you by your email address or cell phone number.
+
+You may choose to upload your address book so that we can help you find Trivia Crack users you know.
+
+We may later suggest people to follow on Trivia Crack based on your imported address book contacts, which you can delete from Trivia Crack at any time.
+
+If you email us, we may keep your message, email address and contact information to respond to your request.
+
+If you connect your Trivia Crack account to your account on another service in order to cross-post between Trivia Crack and that service, the other service may send us your registration or profile information on that service and other information that you authorize.
+
+This information enables cross-posting, helps us improve the Services, and is deleted from Trivia Crack within a few weeks of your disconnecting from Trivia Crack your account on the other service.
+
+Providing the additional information described in this section is entirely optional.
+
+Location Information:
+
+You may choose to publish your location in your Trivia Crack profile.
+
+You may also tell us your location when you enable your computer or mobile device to send us location information.
+
+We may use and store information about your location to provide features of our Services, and to improve and customize the Services.
+
+Links:
+
+Trivia Crack may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means.
+
+We do this to help improve our Services, to provide more relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+
+Cookies:
+
+Like many websites, we use cookies and similar technologies to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists.
+
+A cookie is a small data file that is transferred to your computer's hard disk.
+
+Trivia Crack may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services.
+
+Most Internet browsers automatically accept cookies.
+
+You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+
+However, some Services may not function properly if you disable cookies.
+
+Log Data:
+
+Our servers automatically record information ("Log Data") created by your use of the Services.
+
+Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information.
+
+We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, interact with our email notifications, use your Trivia Crack account to authenticate to a third-party website or application, or visit a third-party website that includes a Trivia Crack button or widget.
+
+Trivia Crack uses Log Data to provide our Services and to measure, customize, and improve them.
+
+If not already done earlier, for example, as provided below for Widget Data, we will either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months.
+
+Third-Parties:
+
+Trivia Crack uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics.
+
+These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address.
+
+Third-party ad partners may share information with us, like a browser cookie ID or cryptographic hash of a common account identifier (such as an email address), to help us measure ad quality and tailor ads.
+
+For example, this allows us to display ads about things you may have already shown interest in.
+
+Information Sharing and Disclosure
+
+Your Consent:
+
+We may share or disclose your information at your direction, such as when you authorize a third-party web client or application to access your Trivia Crack account.
+
+Service Providers:
+
+We engage service providers to perform functions and provide services to us in Argentina and abroad.
+
+We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.
+
+Law and Harm:
+
+Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Trivia Crack's rights or property.
+
+However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
+
+Business Transfers:
+
+In the event that Trivia Crack is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
+
+The promises in this Privacy Policy will apply to your information as transferred to the new entity.
+
+Non-Private or Non-Personal Information:
+
+We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public messages, the people you follow or that follow you, or the number of users who clicked on a particular link (even if only one did).
+
+Modifying Your Personal Information
+
+If you are a registered user of our Services, we provide you with tools and account settings to access or modify the personal information you provided to us and associated with your account.
+
+You can also permanently delete your Trivia Crack account.
+
+Payment Information
+
+If you purchase in-game virtual currency or goods from Trivia Crack, we will collect the billing and financial information necessary to process your charges, including your postal and e-mail addresses, depending on your payment method. Trivia Crack may also receive the billing and payment information that you provide when you purchase Trivia Crack virtual goods or currency via a mobile device, such as an iPhone.
+
+We use and store this data in the same manner as billing and payment data collected from non-mobile visitors to our games.
+
+Our Terms of Service explain our policies and terms relevant to our charges and billing practices.
+
+Please note that purchases of Facebook Credits are subject to Facebook policies.
+
+Customer Support Correspondence
+
+When you ask for assistance from our Customer Support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your game play or activity on the Service, and your user ID number.
+
+We will also store the correspondence and any information contained within.
+
+Sweepstakes, Promotions and Loyalty Programs
+
+We receive and store the information you provide, such as a user ID number or valid e-mail address or street address, when you enter any Trivia Crack game promotion, sweepstakes or loyalty program.
+
+Promotions which offer prizes (for example, other than virtual currency or virtual goods) will have separate requirements for eligibility and other rules, which you can easily locate and should review before deciding whether to participate.
+
+Our Policy Towards Children
+
+Our Services are not directed to persons under 13.
+
+If you become aware that your child has provided us with personal information without your consent, please contact us at support@etermax.com.
+
+We do not knowingly collect personal information from children under 13.
+
+If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+
+Changes to this Policy
+
+We may revise this Privacy Policy from time to time.
+
+The most current version of the policy will govern our use of your information and will always be at http://www.etermax.com/en/privacy.
+
+If we make a change to this policy that, in our sole discretion, is material, we will notify you via email to the email address associated with your account.
+
+By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+Effective August 1, 2014
+
+News & Press Get in touch
+
+Facebook
+
+Twitter
+
+Google
+
+Linkedin
+
+Terms of Service | Privacy Policy
+
+© 2014 Etermax. All rights reserved.

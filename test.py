@@ -1,10 +1,15 @@
 import os
 from summarize import PrivacyPolicySummarizer
+from intersection import IntersectionSummarizer
 
-dirname = 'policies'
+policy_dir = 'policies'
+summary_dir = 'summaries'
+
 pps = PrivacyPolicySummarizer()
-for f in os.listdir(dirname):
-    infile = open(os.path.join(dirname, f), 'r')
+pps = IntersectionSummarizer()
+for f in os.listdir(policy_dir):
+    infile = open(os.path.join(policy_dir, f), 'r')
     print('Processing %s' % os.path.basename(f))
-    ret = pps.summarize(infile.read())
-    print(ret)
+    summary = pps.summarize(infile.read())
+    fout = open(os.path.join(summary_dir, f), 'w')
+    fout.write(summary)

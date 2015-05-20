@@ -22,7 +22,7 @@ urls = fin.read().strip().split('\n')
 display = Display(visible=0, size=(800, 600))
 display.start()
 browser = webdriver.Firefox()
-browser.set_page_load_timeout(5)
+browser.set_page_load_timeout(10)
 
 
 # Gets text from html using approach
@@ -53,7 +53,7 @@ for url in urls:
 
     html_page = browser.find_element_by_tag_name('body')
 
-    text = html_page.text
+    text = html_page.text.replace('\n', '\n\n')
 
-    #fout = open(policy_path, 'w')
-    #fout.write(text)
+    fout = open(policy_path, 'w')
+    fout.write(text)

@@ -1,0 +1,129 @@
+APUS values your privacy.
+
+This Privacy Policy describes the types of personal information we collect about our users and how we may use the information. We want to emphasize that the only purpose of accessing this information is to make the functions listed below work, and any information besides basic anonymous APUS usage data will always keep in your cellphone.
+
+Device & app history
+
+Read sensitive log data
+
+Retrieve running apps
+
+We use this information to improve the basic quality of the APUS Launcher to ensure that it is fast, stable in user’s phone. For example, by constantly analyzing this information, we have reduced the crash rate to only 0.05%.
+
+Identity
+
+Find accounts on the device
+
+We do not recognize and save your account. We only detect whether you have a Google account in the phone. This helps us to confirm the state of Google Service and provide users with appropriate application update methods.
+
+Contacts
+
+Read your contacts
+
+We do not save or upload your contacts. We just use this permission to read your contacts when you initiate contact searching, and display possible results.
+
+SMS
+
+Read your text messages (SMS and MMS)
+
+We do not save or upload your messages. We just use this permission to read your messages when you initiate message searching, and display possible results.
+
+Location
+
+Approximate location (network-based)
+
+The only purpose using this permission is to display apps that surrounding users installed anonymously, and recommend popular apps based on current location in APUS Radar. This information can’t be traced back.
+
+Camera
+
+Take pictures and videos
+
+Torch is a popular feature in APUS. We developed it by controlling the camera flash lamp of phone. This requires the camera permission. APUS do not take photos and videos by itself.
+
+Photos ⁄ Media ⁄ Files
+
+Modify or delete the contents of your USB storage
+
+Test access to protected storage
+
+We use this permission to launch the apps installed in the SD card and store the wallpaper. They are basic features for an android launcher app.
+
+Wi-Fi connection information
+
+View Wi-Fi connections
+
+We use this permission to control Wi-Fi switch. So you can be easy to turn on and off the WLAN.
+
+Device ID & call information
+
+Read phone status and identity
+
+We use this information to evaluate the effects of our various promotion methods and improve our service. E.g. determine which language should be supported in APUS Launcher.
+
+Personal information
+
+Read logs
+
+We use this permission to send back anonymous diagnostic log when APUS crashed on your device. We are not collecting your personal information.
+
+Other
+
+Adjust your wallpaper size
+
+Choose widgets
+
+Control vibration
+
+Measure app storage space
+
+Full network access
+
+Run at startup
+
+Connect and disconnect from Wi-Fi
+
+Change network connectivity
+
+Modify system settings
+
+View network connections
+
+Access Bluetooth settings
+
+Pair with Bluetooth devices
+
+Draw over other apps
+
+Set wallpaper
+
+Close other apps
+
+Expand/collapse status bar
+
+Set an alarm
+
+Read sync settings
+
+Install shortcuts
+
+We use these permissions to provide many useful features:
+
+Quick setting, such as Bluetooth, brightness, volume, vibration, mobile data, Wi-Fi;
+
+Power saving: as above;
+
+Enable user to use widget;
+
+Scheduled task;
+
+Enable user to change wallpaper;
+
+Display operation instruction;
+
+For any suggestion, feedback or request, please head over to our Facebook page:
+
+http://www.facebook.com/APUSGROUP
+
+or email us at apusecho@gmail.com
+
+© 2015 APUS Group. ALL Rights Reserved

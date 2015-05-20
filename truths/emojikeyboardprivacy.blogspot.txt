@@ -1,0 +1,5 @@
+If you are not logged into our keyboard server ,we do not collect data from your device .
+If you are logged in, we will only collect data that can help us improve our keyboard.
+Such as app crash data which can help us to fix it , search content which can help us to give you exactly what you want .
+Emoji Keyboard does not collect your private data including password or credit card info.
+If we sell or otherwise transfer part or the whole of Emoji Keyboard or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution or liquidation), information from or about our users may be among the items sold or transferred.

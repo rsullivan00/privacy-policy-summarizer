@@ -1,0 +1,5 @@
+When you access or use the Service from or through your smart phone, tablet, computer or other device (collectively “device"), or when you install the Service on your device and register with Tango, personally identifiable information about you may be collected.
+If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to help you use the Service.
+The Service may also collect and store certain profile information including country of residence and preferences.
+When we serve advertisements to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product.
+In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you.

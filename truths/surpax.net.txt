@@ -1,0 +1,5 @@
+Our primary purpose in collecting information is to provide you with a safe, efficient and customized experience and to provide you with Services and features that better meet your needs or requests. 
+We do NOT collect and use Personal Information in any way.
+Generally non-personal information is used internally to monitor and improve the Services, to perform analyses of the behavior of our users, to measure user demographics and interests, to describe our services to third parties such as advertisers and to analyze how and where best to use our resources.
+We may share certain information with third-party advertisers, ad networks and ad platforms ("Advertising Entities") to develop and deliver targeted advertising in the Apps.
+We may also allow Advertising Entities to collect non-personal information within the Services which they may share with us, including your device identifier, device type, device brand, device model, network type, device language, and IP address.

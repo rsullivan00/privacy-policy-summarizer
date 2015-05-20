@@ -1,0 +1,27 @@
+Privacy Policy
+
+  TerranDroid Studio (“we,” “us,” “our,” or “Company”) knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about how we use your personal information.  By visiting, accessing or using the http://www.terrandroid.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith, or using any of our services or mobile applications (collectively, the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+
+  Information we collect and use:
+
+Our primary goals in collecting and using information are to provide and improve the Service, to administer and assist you in administering your Account on the Service, and to provide you with a better experience with the Service. We store and process your information in the United States.
+
+  Personal Information and Non-Personal Information
+
+  TerranDroid may collect personal and non-personal information from you when you use the Service. Personal information is information that specifically identifies an individual, including, but not limited to, an individual’s name, phone number, credit card or other billing information, email address and home address. This Privacy Policy in no way limits or restricts our collection of aggregate or anonymous information. In this Privacy Policy, we refer to all information collected from or about you, including personal information and non-personal information, as “Your Information.”
+
+  Use of Applications
+
+  When you launch any of our applications, we collect information regarding your device type, operating system and version, carrier provider, IP address, Media Access Control (MAC) address, International Equipment Mobile ID (IMEI), whether you are using a point package, the game version, the device’s geo-location, language settings, and unique device ID. In addition, we create a unique user ID to track your use of our Service. This unique user ID is stored in connection with your Account profile information to enable us to move Your Information to a new device at your request. In addition, it may be used to link a character with which you play our games to your username on the Forums. When you play our games, we also collect information about your play and interaction with other users and the Service.
+
+  We use your information to provide you with a better user experience, to improve the quality and value of the Service and to analyze and evaluate how the Service is used. We may also use your information to serve you specifically, e.g. by delivering advertisements to you according to your preferences or restrictions.
+
+  Connect with Facebook:
+
+  If you use one of our applications and connect to your Facebook account within such application, you will be providing us with basic account information i.e., user ID, name, email, gender, birthday, current city, profile picture URL and the user IDs of your friends who have also connected with our applications. In addition, we will cache data we receive from the Facebook APIs to improve our user experience. If you want us to delete the data we receive from Facebook about you, please contact us at support@terrandroid.com.
+
+  Contacting Us:
+
+If you have any questions about this Privacy Policy, please contact us at support@terrandroid.com.
+
+ 

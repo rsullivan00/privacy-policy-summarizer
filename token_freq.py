@@ -1,8 +1,6 @@
-#
-#
-#
 import nltk
 import nltk.stem as stem
+from nltk.corpus import stopwords
 import os
 from collections import Counter
 import matplotlib.pyplot as plt
@@ -21,8 +19,11 @@ for f in os.listdir(dirname):
         stem = stemmer.stem(t.lower())
         stemmed_toks[stem] += 1
 
-blacklist = [',', '.', 'to', 'and', 'the', '(', ')', ':']
-for w in blacklist:
+extra_stops = [',', '.', '(', ')', ':', ';']
+stopws = stopwords.words('english')
+stopws.extend(extra_stops)
+
+for w in stopws:
     if stemmed_toks[w]:
         del stemmed_toks[w]
 
@@ -44,9 +45,3 @@ def plot_word_freq_dist(tokens_tuples, log=False):
 
 plot_word_freq_dist(stemmed_toks.most_common(30))
 plot_word_freq_dist(stemmed_toks.most_common(30), True)
-#print('Tagging tokens %s...' % tokens[:6])
-#tagged = nltk.pos_tag(tokens)
-#print('Chunking tagged totkens %s...' % tagged[:6])
-#entities = nltk.chunk.ne_chunk(tagged)
-
-#entities.draw()

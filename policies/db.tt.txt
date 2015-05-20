@@ -1,0 +1,65 @@
+Guitar & Music Games Privacy Policy
+
+The terms in this Privacy Policy govern the manner in which Guitar & Music Games collects and uses any information you (Users) provide in connection with any Guitar & Music Games game or Application (Hereinafter, "Services"). This Privacy Policy applies to all Services offered by Guitar & Music Games. By using our Services, Users agree to the collection and use of your personal information as outlined in this Privacy Policy. Guitar & Music Games may amend this Privacy Policy from time to time; therefore, Users are encouraged to consult the Privacy Policy regularly.
+
+Personal identification information
+
+When you install our games and apps, we may collect and record information to enhance the experience and benefits of using our Services. We will collect personal public information from Users only if they voluntarily submit such information to us through our Services. Users can always refuse to supply personal information. In said case, Users should avoid using social network features such as Sharing and Friend invite requests.
+
+Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Services. Said information includes —but is not limited to— device type, brand and model, Android OS version, unique device identifiers, location and country.
+
+Personal Information
+
+Personal information collected in accordance with our Services may vary depending on the activity and may include: social networking basic profile information (Apps have a basic connection to a user's Facebook account to ask for permission to post on the user's behalf or to read other fields from the user's timeline or their friends' timelines), Request read permissions (to fill the stream with photos, the user must grant the app two "read permissions" that let the app read the user's photos and their friends' photos), Request publish permissions (the user must grant the app a "publish permission" to share photos).
+
+Access through Social Network Services or Mobile Devices
+
+By accessing the Services through a social network, or mobile device, Users are authorizing Guitar & Music Games to collect, store, and use in accordance with this Privacy Policy any and all information that they agreed the social network, mobile device platform could provide to Guitar & Music Games through the social network/mobile device. Their agreement takes place when they connect with the third party network, platform or service via the Services, and/or when you connect with the Services, or “accept” or “allow” (or similar terms) Services to access your information through a social network, OR mobile device or other third party platform or service. Guitar & Music Games may also collect or receive information about you from other Services Users who choose to upload their email contacts. This information will be stored by Guitar & Music Games and used primarily to help Users and their friends connect.
+
+Information Usage
+
+Guitar & Music Games may collect and use Users personal information for the following purposes:
+
+To improve customer service
+
+Information Users provide helps us respond to comments, support needs, and customer service requests more efficiently.
+
+To personalize user experience
+
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Services. In addition, the personal information Users provide will allow Guitar & Music Games to send them messages regarding, among other things, new products, features, enhancements, special offers, upgrade opportunities, contests and other events of their interest. Users may also later opt out of these communications by sending us an email or simply just by uninstalling our Services.
+
+Permissions that may use sensitive information
+
+The following is a detailed list of permissions —and the way in which we implement them— that we use and that may use sensitive information:
+
+READ_EXTERNAL_STORAGE
+
+We use this permission in "Rock Hero" Game to copy song files from the SD to analyse them and offer a better game experience (the game provides the users with the option to play loading the songs in their phones —more specifically, in their External Storage— into the game).
+
+Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. The sole exception to this is personal information that is required by law enforcement authorities or similar organizations in case of a criminal investigation, prevention of fraud or criminal activities, infringement of intellectual property rights, or other illegal activities that may expose users or Guitar & Music Games to legal liability.
+
+Social
+
+The Service can offer several integrations with sharing services and other tools (like Google +1 button, Facebook Like button, among others), that can be used to share information and actions Users make while interacting with our Service. Also we may integrate in our Games competitive services for sharing Scores and Achievement between players, like Google Play Games Services or others. The use of the previous services and tools is a free choice of each user. It's not necessary to use our Services. The social features that each User agreed to use enables the sharing of information with other contacts or the general public, depending on the configuration options the entity provides. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
+Analytics, Advertising and Other Services Provided by Other Companies
+
+We may allow other third parties companies to serve advertisements in our Services, provide analytics services or other services for the Users experience. These companies may use cookies, web beacons, Users account information (that Users set up with these companies) and other techniques to collect information about you on our Services, other online services, like IP addresses, identifiers of your mobile device, conversion information, browsers usage and pages you have visited. This information may be used to deliver advertising and content according the Users interests, better understand of the Services usage from the Users and analyzing and tracking data. These third party companies may also share this information with their customers and clients. This Privacy Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies.
+
+Acceptance of the terms
+
+By using Guitar & Music Games games and Apps, you agree to the terms of this policy. If you do not accept the terms in this policy, please do not use our games and Apps. The continued use of our products after any amendment of this privacy policy will be deemed your acceptance of the changes and/or new terms.
+
+Contacting us
+
+For any questions about this Privacy Policy or any other issue please contact Guitar & Music Games at:
+
+DiannaSellars.DS@gmail.com
+
+This document was last updated on December 30, 2014
+
+Version 1.0.1

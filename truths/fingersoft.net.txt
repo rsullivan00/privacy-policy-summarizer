@@ -1,0 +1,5 @@
+We collect anonymous analytics to help us better understand how our audience uses our Services. 
+This includes information about the User's device such as operating system version, screen resolution, device make and model, coarse location and usage information of our game. 
+We don't collect any personal information for analytics.
+We retain the right to collect and store identifying information for the sole purpose of providing user accounts to improve the quality, features and user experience of our Services.
+The advertisements are provided by third party companies and they may use and collect anonymous data about the User's interests to be able to select more relevant advertisements.

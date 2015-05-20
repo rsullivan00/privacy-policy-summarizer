@@ -1,0 +1,5 @@
+When you install our games and apps, we may collect and record information to enhance the experience and benefits of using our Services.
+We will collect personal public information from Users only if they voluntarily submit such information to us through our Services.
+We may collect non-personal identification information about Users whenever they interact with our Services.
+Personal information collected in accordance with our Services may vary depending on the activity and may include: social networking basic profile information (Apps have a basic connection to a user's Facebook account to ask for permission to post on the user's behalf or to read other fields from the user's timeline or their friends' timelines), Request read permissions (to fill the stream with photos, the user must grant the app two "read permissions" that let the app read the user's photos and their friends' photos), Request publish permissions (the user must grant the app a "publish permission" to share photos).
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Services.

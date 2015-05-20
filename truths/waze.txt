@@ -1,0 +1,6 @@
+●      detailed location and route information, for example in the form of GPS signals and other information sent by your mobile device on which the Application is installed and activated.
+Waze uses this location and route information to create a detailed location history of all of the journeys you have made while using the Application; and
+We only collect numbers in a form which is anonymous to Waz e, we will not collect names, addresses or other information from your device's phone book.
+    use your location and route information and/or search query history to provide navigation services and to provide information and advertisements about sites, shops and other places and attractions in your close vicinity, or that we believe, based on your search query history, you may find interesting; and
+●       subject  to your prior indication of consent, we may also use the email address that you provide when setting up a username to send you marketing material.
+

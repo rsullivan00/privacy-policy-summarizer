@@ -1,0 +1,73 @@
+- Games - - About - - Jobs - - Contact -
+
+Imangi Studios, LLC Privacy Policy
+
+Last updated: April 22nd, 2014
+
+Imangi Studios, LLC (“Imangi”) has adopted this privacy policy (“Privacy Policy”) to explain how Imangi collects, stores, and uses the information collected in connection with Imangi's products, services, and websites (together “Services”).
+
+Should you have any questions relating to this Privacy Policy, please contact us at privacy@imangistudios.com.
+
+Imangi reserves the right to modify this Privacy Policy at reasonable times, so please review it frequently. Your continued use of Services will signify your acceptance of the changes to this Privacy Policy.
+
+1. Non-personal Data
+
+For purposes of this Privacy Policy, “non-personal data” means information that does not directly identify you. Additionally, non-personal data means “aggregate” and “de-personalized” information, which is data Imangi collects about the use of Imangi Services, from which any personally identifiable data has been removed.
+
+Imangi may use tools or third party analytical software to automatically collect and use certain non-personal data that does not directly enable Imangi to identify you.
+
+Imangi may use Flurry analytics tool in order to develop and analyze use of the Services. Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how Services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. If you wish to opt-out from Flurry analytics, please follow this link: http://www.flurry.com/resources/privacy.html.
+
+2. Personal Data
+
+For purposes of this Privacy Policy, “personal data” means personally identifiable information that specifically identifies you as an individual.
+
+Likely situations when you make personal data available to Imangi include, but are not limited to: (i) registration for Services, including leaderboards; (ii) subscribing to newsletters; (iii) requesting technical support; and (iv) otherwise through use of Imangi Services where personal data is required for use and/or participation.
+
+The types of personal data may vary depending on the type of activity you are engaged in. The personal data Imangi may collect, process and use may include, but are not limited to your name, screen/user name, Imangi Services' or third party service ID, e-mail address.
+
+Imangi may use personal and non-personal data, both individually and combined together, for purposes of analyzing usage of the Services, providing customer and technical support, managing and providing Services (including managing advertisement serving), customizing Imangi's communications and to further develop the Services and other Imangi services and products. Imangi may combine non-personal data with personal data.
+
+Imangi may use your personal data to send messages to you with informative and/or commercial content about Imangi's services or third party products and services Imangi thinks may be of interest to you, such as new features and services, special offers and updated information.
+
+3. Ad Serving Technology
+
+Imangi reserves the right to use and disclose the collected non-personal data for purposes of advertisement by Imangi or Imangi's partners and contractors. Imangi may employ third party ad serving technologies that use certain methods to collect information as a result of ad serving through Services. Imangi or third parties operating the ad serving technology may use demographic and location information as well as information logged from your hardware or device to ensure that appropriate advertising is presented within the Service. Imangi or third parties may collect and use data for this purpose including, but not limited to IP address (including but not limited to for purposes of determining your coarse location), Device ID, MAC, software, applications, hardware, and in-game information. The foregoing data may be used and disclosed in accordance with this Privacy Policy and the privacy policy of the company providing the ad serving technology.
+
+You recognize and agree that the advertising companies who deliver ads for Imangi may combine the information collected with other information they have independently collected from other services or products. These companies collect and use information under their own privacy policies. These ad serving technologies are integrated into Services; if you do not want to be subject to this technology, do not use or access Services. Although Imangi takes commercially reasonable steps to instruct such advertising companies to comply with the terms and conditions of this Privacy Policy, Imangi does not have access to or control of third party technologies.
+
+Imangi may display to you behaviorally targeted advertising. If you wish to “opt out” of certain targeted advertising, please visit http://www.youradchoices.com and/or www.networkadvertising.org. If you want to be certain that no behaviorally targeted advertisements are not displayed to you, please do not use or access the Services. Additionally please note that if you “opt out” it does not mean that you will no longer receive advertising. It just means that the advertising you see displayed will not be customized to you and your interests and may be less relevant to you.
+
+4. Location Data
+
+We do not use or collect your precise geographic location.
+
+5. Data Retention
+
+Imangi retains the data collected pursuant to this Privacy Policy for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Thereafter if the collected data is no longer needed for purposes specified in this Privacy Policy, Imangi deletes all aforementioned data in its possession within a reasonable timeframe.
+
+Irrespective of the above, Imangi may still retain some of the data to the extent such retention is necessary to resolve disputes, enforce Imangi user agreements, and comply with technical and legal requirements and constraints related to the security, integrity, and operation of Services.
+
+Information we collect may be stored or processed on computers located in any country where we do business.
+
+6. Cookies, Beacons and Tracking
+
+The Services may use “cookies” and other technologies such as pixel tags, locally shared objects, and web beacons. Imangi treats information collected by cookies and similar technologies as non-personal data.
+
+7. Third Party Terms and Conditions
+
+To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so.
+
+8. Safeguards
+
+Imangi follows generally accepted industry standards and maintains reasonable safeguards to attempt to ensure the security, integrity, and privacy of the information in Imangi's possession. Data collected by Imangi is stored in secure operating environments that are not available to the public. To prevent unauthorized on-line access to data, Imangi maintains data behind a firewall-protected server. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
+
+9. Other
+
+If you are under 13 years of age or a minor in your country of residence, please ask your legal guardian's permission to use or access the Services. Imangi encourages parents and/or guardians to play an active role in their children's online experience at all times. Imangi does not knowingly contact or collect information from children under 13. If you believe Imangi has inadvertently collected such information, please contact us so Imangi can promptly obtain parental consent or remove the information.
+
+10. Further Information
+
+Should you wish opt-out from receiving communications (such as newsletters or offers) from Imangi, please do so here:
+
+Your Email Address:

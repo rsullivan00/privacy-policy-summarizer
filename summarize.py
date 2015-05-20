@@ -8,30 +8,59 @@ from nltk.corpus import stopwords
 
 class PrivacyPolicySummarizer:
 
-    def summarize(self, input, numpoints=5, stopw=None):
+    def __init__(self, stopws=None):
+        self.stemmer = PorterStemmer()
+        self.stopwords = stopwords.words('english')
+        if stopws is not None:
+            self.stopwords.extend(stopws)
+
+    def stem(self, content):
+        if isinstance(content, str):
+            return self.stemmer.stem(content)
+        elif isinstance(content, list):
+            return [self.stem(x) for x in content]
+
+        raise ValueError('Stemming failed with %s' % content)
+
+    def split_content_to_sentences(self, content):
+        # Use built in sentence splitter.
+        tokenizer = PunktSentenceTokenizer()
+        tokens = tokenizer.tokenize(content)
+        sentences = []
+        # Make sure sentences don't include multiple lines.
+        for t in tokens:
+            t_split = t.split('\n')
+            for t_s in t_split:
+                sentences.append(t_s)
+        return sentences
+
+    # Naively split paragraphs.
+    def split_content_to_paragraphs(self, content):
+        return content.split("\n\n")
+
+    def split_content_to_tokens(self, content):
+        tokenizer = RegexpTokenizer(r'\w+')
+        tokens = tokenizer.tokenize(content)
+        return tokens
+
+    def filter_stopwords(self, wordlist):
+        return list(filter(lambda x: x.lower() not in self.stopwords, wordlist))
+
+    def summarize(self, input, numpoints=5):
         """
         Process a string containing the text of a privacy policy, returning
         a list of important sentences.
         """
 
-        tokenizer = RegexpTokenizer(r'\w+')
-        words = tokenizer.tokenize(input)
+        words = self.split_content_to_tokens(input)
+        words = self.filter_stopwords(words)
 
-        if stopw is None:
-            stopw = stopwords.words('english')
-
-        stemmer = PorterStemmer()
         tokens = Counter()
         for w in words:
-            w = w.lower()
-            if w not in stopw:
-                stem = stemmer.stem(w)
-                tokens[stem] += 1
+            stem = self.stem(w)
+            tokens[stem] += 1
 
-        print(tokens.most_common(10))
-
-        tokenizer = PunktSentenceTokenizer()
-        sentences = tokenizer.tokenize(input)
+        sentences = self.split_content_to_sentences(input)
 
         summary = []
         for t in tokens.most_common(numpoints):
@@ -41,4 +70,4 @@ class PrivacyPolicySummarizer:
                     sentences.remove(s)
                     break
 
-        return '\n\n---'.join(summary)
+        return '\n\n'.join(summary)

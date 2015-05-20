@@ -1,0 +1,348 @@
+Skype Privacy Statement
+
+This privacy statement applies to Skype’s websites, software and products. Please note that Skype is now part of Microsoft. It does not apply to other Microsoft websites, products, and services that do not display or link to this privacy statement.
+
+
+
+Please read the summaries below and click on "Learn More" for more details on a particular topic. Some features mentioned in this statement may not be available in all versions of the Skype software or in all markets.
+
+
+
+You can find more information on Microsoft's commitment to protecting your privacy at http://www.microsoft.com/privacy
+
+Cookies
+
+Collecting Your Information
+
+Using Your Information
+
+Sharing Your Information
+
+Accessing Your Information
+
+Children
+
+Advertising
+
+Communications
+
+Location Based Services
+
+Support Data
+
+Payment Data
+
+Microsoft Account
+
+Other Information
+
+Skype Mobile Apps
+
+Cookies
+
+Most Microsoft Sites use "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. We may use cookies to store your preferences and settings; help with sign-in; provide targeted ads; and analyze site operations. Click here to learn more .
+
+Cookies
+
+Skype websites and software use "cookies", which are small text files stored on your device, to help operate the websites and software and collect information about activity. For instance, we use cookies to store your preferences and settings; help with sign-in; provide targeted ads, content and marketing communications; combat fraud; and analyze site operations. By using Skype’s websites and/or software you are giving your consent to the use of cookies. If you sign into Skype or other Microsoft products using a Microsoft account or Skype account, we will set or read one or more additional cookies. 
+
+We also use web beacons to help deliver cookies and compile analytics. These include web beacons from third-party service providers.
+
+You have a variety of tools to control cookies and similar technologies, including:
+
+Browser controls to block and delete cookies; 
+
+Advertising controls, including Microsoft's controls at http://choice.live.com/advertisementchoice/, to opt out of receiving behaviorally targeted ads; and
+
+Controls from some analytics service providers to opt out of data collection through web beacons.
+
+Collecting Your Information
+
+Skype collects many kinds of information in order to operate effectively and provide you the best products and experiences we can.
+
+We collect information when you register, sign in, and use our websites and products. We also may get information from other companies.
+
+We collect this information in a variety of ways, including from web forms, technologies like cookies, web logging and the Skype software on your computer or other device.
+
+Using Your Information
+
+Skype uses the information we collect to operate, improve and personalize Skype and other Microsoft software, products and features.
+
+ 
+
+We also use the information to communicate with you, for example, informing you about your account and security updates, or to organize and carry out marketing or promotional operations/offers, contests, games and similar events.  And we use the information to help make the ads we show you more relevant. 
+
+Learn More
+
+Top of page
+
+Sharing Your Information
+
+We will share your personal information with third parties with your consent.  We may also share or disclose personal information with (1) Microsoft affiliates, partners and vendors; (2) when required by law or to respond to legal process; (3) to protect our customers, to protect lives and to maintain the security of our services; and (4) to protect the rights or property of Skype and Microsoft.
+
+Learn More
+
+Top of page
+
+Accessing Your Information
+
+You have the right to view and, where relevant, edit your personal information. Some of your information may be viewed or edited online. To help prevent others from viewing your personal information, you first will be required to sign in.
+
+To contact us regarding access to your information in relation to Skype software or products, please submit a support request to the customer support team.
+
+Learn More
+
+Top of page
+
+Children
+
+Skype is not intended for or designed to attract users under the age of 13 and we do not intentionally or knowingly collect personal information on our websites from anyone under the age of 13 (or older in some jurisdictions).  We encourage parents to be involved in the online activities of their children to ensure that no information is collected from a child without parental permission.
+
+When a Microsoft account has been established for a child under the age of 13 through the applicable parental consent mechanism for that account, the child may have access to communication products like Skype and may be able to communicate freely with other users of all ages.  Parents can manage the Microsoft Account permissions by visiting their own account, and clicking on "Parental Permissions".
+
+Top of page
+
+Advertising
+
+Ads shown in the Skype software and advertising for Skype on third party websites are delivered by Microsoft Advertising or other carefully selected ad serving partners. When we display online advertisements to you, we will place one or more cookies in order to recognize your device when we display an ad to you. We may use non-personally identifiable information that you have provided to Skype, such as the age, gender, language and country of residence in your Skype profile as well as information about your relationship with and use of Skype’s websites, software, and products, such as the destination of your calls, in order to provide advertisements likely to be of greater interest to you and to help us measure and improve the performance of our advertising campaigns and offers. These ads may also be targeted based on other information Microsoft Advertising collects outside of Skype’s websites and software. For instance, Microsoft Advertising may utilize the same browser cookies set by Microsoft websites to enhance targeting within Skype software.
+
+
+
+Additionally, ads shown to you that are delivered by Microsoft Advertising on other web properties may be targeted based on non-personally identifiable Skype profile information (including profile information from linked Microsoft accounts), such as age, gender, country of residence, and language preference, as well as other information Microsoft Advertising collects outside of Skype’s websites and software.  Over time, we may gather information from the websites and software where we serve ads and use the information to help provide more relevant ads. You may opt-out of Microsoft targeted ads in your Skype software. The opt-out mechanisms vary depending on which Skype software you use.   Full details are provided below.
+
+
+Communications
+
+We may contact you with messages about your use of our websites, software and products.  We also may notify you of claims related to your use of our products, including without limitation, claims of violation of third party rights, via email, SMS, or the Skype software you are using.  We may also send you alerts by email or SMS to notify you when someone has tried to contact you.
+
+We may also provide you with news and other promotional material related to Skype and/or other Microsoft products.  You can opt-out of the receipt of further news or promotional (a) emails by clicking the ‘unsubscribe’ link on the email that you receive or (b) SMS by following the instructions on the SMS that you receive.  You can also change your notification settings for both e-mail and SMS at any time on your account page on www.skype.com.
+
+If you have a Microsoft account, depending on the respective service, you may also have the option of proactively making choices about the receipt of promotional email, telephone calls, and postal mail from other Microsoft websites or services by visiting and signing into  Microsoft's Promotional Communications Manager allows you to update contact information, manage Microsoft-wide contact preferences, opt out of subscriptions, and choose whether to share your contact information with Microsoft partners.
+
+These choices do not apply to the display of online advertising: please refer to the section "Display of Advertising (Opt-out)" for more information. Nor do they apply to the receipt of mandatory service communications that are considered part of certain Microsoft services, which you may receive periodically unless you cancel the relevant services.
+
+Top of page
+
+Location Based Services
+
+Certain products or features can use information about your location to provide the feature you request or personalize your experience.  Location information may include data identifying nearby cell towers and Wi-Fi hotspots, as wells as Global Position System (GPS) data.
+
+Learn More
+
+Top of page
+
+Support Data
+
+Support Data is the information we collect when you submit a support request or run an automated troubleshooter, including information about hardware, software, and other details related to the support incident, such as: contact or authentication information, chat session personalization, information about the condition of the machine and the application from when the fault occurred and during diagnostics, system and registry data about software installations and hardware configurations, and error-tracking files. We use Support Data as described in this privacy statement, and additionally use it to resolve your support incident and for training purposes.
+
+Top of page
+
+Payment Data
+
+Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number (e.g., credit card, PayPal), your name and billing address, and the security code associated with your payment instrument (e.g., the CSV or CVV). This section provides additional information regarding the collection and use of your payment information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn More
+
+Top of page
+
+Microsoft Account
+
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products (including Skype), websites and services, as well as those of select Microsoft partners.
+
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please visit the Windows Services Privacy Statement.
+
+Top of page
+
+Other Information
+
+Learn more about:
+
+Third party links and plug-ins
+
+How we protect the security of personal information
+
+Storing and processing personal information
+
+Changes to this privacy statement
+
+How to contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn More
+
+Top of page
+
+Skype Mobile Apps
+
+Push Notifications
+
+When you use Skype on your device, Skype may use notification services available for that device to let you know of incoming calls, chats and other messages when you are not actively running or using the Skype application.  These services may be provided by a third party.  For example, messages sent to an Apple device may use Apple’s Push Notification Services.  Notification services may receive information about the caller, sender of the message and the content of the message as part of providing the service and may use the information in accordance with the terms and conditions and privacy policy for the third party service provider.  Skype is not responsible for the data collected by third party notification services. 
+
+
+
+If you do not want to use third party notification services to receive notification of incoming Skype calls and messages, you can disable this in your notification settings in the Skype application settings or in the notification settings found in your device settings.     
+
+Top of page
+
+We self-certify compliance with:
+
+More on Privacy & Security at Microsoft
+
+Privacy at Microsoft >
+
+Controlling your online privacy >
+
+Security at Home >
+
+Other Microsoft sites
+
+Windows
+
+Office
+
+Surface
+
+Windows Phone
+
+Mobile devices
+
+Xbox
+
+Skype
+
+MSN
+
+Bing
+
+Microsoft Store
+
+Downloads
+
+Download Center
+
+Windows downloads
+
+Office downloads
+
+Support
+
+Support home
+
+Knowledge base
+
+Security
+
+Security home
+
+Microsoft Security Essentials
+
+About
+
+Microsoft
+
+Careers
+
+Company News
+
+Microsoft Account
+
+Investor relations
+
+Site map
+
+Popular resources
+
+Windows Phone devices
+
+Windows Phone apps and games
+
+Laptops and desktop computers
+
+Microsoft computer security
+
+Malware removal tool
+
+Free antivirus software
+
+Cloud computing solutions
+
+Microsoft Dynamics CRM Online
+
+United States
+
+©2015 Microsoft
+
+Contact Us
+
+Terms of Use
+
+Trademarks
+
+Privacy & Cookies
+
+About our ads
