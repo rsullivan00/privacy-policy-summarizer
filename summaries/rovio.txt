@@ -1,0 +1,10 @@
+All Rovio Services are governed by this Privacy Policy and by using or accessing a Service You give consent to the processing, use and disclosure of your data.
+Rovio may display to you behaviorally targeted advertising.
+Some services may include the use of in-game advertisements or brand placement.
+To the extent Rovio makes location enabled Services available and you use such Services, Rovio may collect and process your location data to provide location related Services and advertisements.
+Rovio may also use third-parties, such as a Flurry in order to develop and analyze use of the Services.
+Rovio may use third parties to collect and process personal data on Rovio’s behalf and in according to Rovio’s instructions.
+Cookies, beacons and tracking Rovio treats information collected by cookies and similar technologies as non-personal data.
+Flash cookies & HTML5: Rovio may also use Flash cookies (local shared objects) and HTML5 local storage.
+In connection with such use, certain personally identifiable user and/or membership data may be transferred automatically to and from Rovio.
+Rovio and its partners do collect non-personally identifiable data from children.

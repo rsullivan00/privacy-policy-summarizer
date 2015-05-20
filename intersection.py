@@ -6,11 +6,11 @@ http://thetokenizer.com/2013/04/28/build-your-own-summary-tool/
 Adapted from Shlomi Babluki's code here:
 https://gist.github.com/shlomibabluki/5473521
 """
-from summarize import PrivacyPolicySummarizer
+from summarize import SummarizerBase
 import re
 
 
-class IntersectionSummarizer(PrivacyPolicySummarizer):
+class IntersectionSummarizer(SummarizerBase):
     def sentence_to_set(self, sent):
         sent = self.split_content_to_tokens(sent)
         sent = self.filter_stopwords(sent)
@@ -38,7 +38,6 @@ class IntersectionSummarizer(PrivacyPolicySummarizer):
 
         # Split the content into sentences
         sentences = self.split_content_to_sentences(content)
-        print('Total num sentences: %d' % len(sentences))
 
         # Calculate the intersection of every two sentences
         n = len(sentences)
@@ -90,11 +89,9 @@ class IntersectionSummarizer(PrivacyPolicySummarizer):
     def summarize(self, input, max_length=10):
 
         sentences_dic = self.get_sentences_ranks(input)
-        #pprint(sentences_dic)
 
         # Split the content into paragraphs.
         paragraphs = self.split_content_to_paragraphs(input)
-        print("Num paragraphs: %d" % len(paragraphs))
 
         summary = []
 

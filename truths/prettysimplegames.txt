@@ -1,4 +1,4 @@
-When you access the Game through Facebook, we may receive your basic account information (user ID, name, email, gender, birthday, current city, profile picture URL, and the user IDs of the user’s friends who have also connected with your application) from Facebook.
+Facebook: When you access the Game through Facebook, we may receive your basic account information (user ID, name, email, gender, birthday, current city, profile picture URL, and the user IDs of the user’s friends who have also connected with your application) from Facebook.
 We use the statistics that we have, thanks to your Personal and non-Personal Information, to establish profiles of our gamers.
 Personal Information allows us to contact you, if we need to.
 We keep these addresses for a while to contact them and remind them that they have been invited to the application.

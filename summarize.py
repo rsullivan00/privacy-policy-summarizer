@@ -1,12 +1,12 @@
 from collections import Counter
 
 from nltk.tokenize import RegexpTokenizer
-from nltk.tokenize.punkt import PunktSentenceTokenizer
+from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 
 
-class PrivacyPolicySummarizer:
+class SummarizerBase:
 
     def __init__(self, stopws=None):
         self.stemmer = PorterStemmer()
@@ -23,8 +23,12 @@ class PrivacyPolicySummarizer:
         raise ValueError('Stemming failed with %s' % content)
 
     def split_content_to_sentences(self, content):
+        punkt_param = PunktParameters()
+        punkt_param.abbrev_types = set([
+            'dr', 'vs', 'mr', 'mrs', 'prof', 'inc', 'e.g', 'i.e'])
+
         # Use built in sentence splitter.
-        tokenizer = PunktSentenceTokenizer()
+        tokenizer = PunktSentenceTokenizer(punkt_param)
         tokens = tokenizer.tokenize(content)
         sentences = []
         # Make sure sentences don't include multiple lines.
@@ -44,8 +48,11 @@ class PrivacyPolicySummarizer:
         return tokens
 
     def filter_stopwords(self, wordlist):
-        return list(filter(lambda x: x.lower() not in self.stopwords, wordlist))
+        return list(filter(
+            lambda x: x.lower() not in self.stopwords, wordlist))
 
+
+class ParagraphSummarizer(SummarizerBase):
     def summarize(self, input, numpoints=5):
         """
         Process a string containing the text of a privacy policy, returning

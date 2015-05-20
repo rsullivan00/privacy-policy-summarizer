@@ -1,0 +1,10 @@
+We may receive and/or you may be asked to provide your information (including personal information) any time you are in contact with us or use the Applications or the Website.
+This information may be connected with your device ID and will be used only in order to maintain or analyze the functioning of our Application and to personalize the content in the Application.
+Our third party providers may use the information so gathered, but only in aggregated and anonymized manner.
+We may use third party providers for the in-app surveys and they may place their tags within an Application to collect non-personally identifiable data from the device (”Tag Data”) solely for the purposes of conducting the survey, such as to collect cross device information in order to enable the deduplication of audiences across devices.
+For any additional questions about third party information collection please refer to privacy@outfit7.com.
+In addition, we may receive certain information (which may include your personally identifiable information) from such third parties through the use of Application Programming Interfaces provided by such third parties.
+We have implemented reasonable security measures to protect the confidentiality, security and integrity of the collected information, prevention of unauthorized access and the use of information contrary to this Privacy Policy.
+For some of our Applications we may develop in-app deletion request functionality which can be used in addition to the address above.
+Information collected by third parties, which may include such things as location information or contact details, is governed by their privacy practices.
+You are always free to opt-out from the future collection of your personal information by Outfit7 in accordance with this Privacy Policy by uninstalling all the Applications from each of your computing devices and discontinuing use of the Website.

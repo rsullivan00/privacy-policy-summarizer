@@ -1,5 +1,5 @@
 Game Circus collects information you provide directly to it, such as if you register for a Service; participate in Game Circus’ contests and special events; request technical support; or send Game Circus an email or otherwise interact with it.
-Circus logs information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to its websites.
+Log Information:Game Circus logs information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to its websites.
 Provide, maintain, and improve the Services and deliver the information and support you request, including technical notices, security alerts, purchase confirmations, and support and administrative messages;
 Personalize the Services and provide advertisements, content, or features that are targeted toward your interests;
 Send you news and information about the Services and communicate with you about products, services, contests, promotions, incentives, and rewards offered by Game Circus and select partners;

@@ -1,5 +1,5 @@
-When you create a Vine account, you must provide access credentials either in the form of an email address and password or by authentication using another service, such as Twitter.
-In addition to using your contact information to create your account, we may use this information to send you information about our Services, respond to your requests and facilitate your use of the Services.
+Creating a Vine Account and Profile Information: When you create a Vine account, you must provide access credentials either in the form of an email address and password or by authentication using another service, such as Twitter.
+Contact Information: In addition to using your contact information to create your account, we may use this information to send you information about our Services, respond to your requests and facilitate your use of the Services.
 We may use the contact information (such as your phone number or email address) to help connect you with other Vine users, even if that information is not publicly displayed.
 We may use and store information about your location to provide features of our Services, such as tagging a video with a location, and to improve and customize the Services, for example, with Content that has been tagged near your location.
 These third-party service providers may use cookies and other technologies to collect information about your use of our Services and other websites and services, including your IP address, device ID, pages viewed, and links clicked.
