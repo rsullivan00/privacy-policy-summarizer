@@ -1,5 +1,11 @@
 import os
-from summarize import ParagraphSummarizer, SummarizerBase
+from summarize import (
+    ParagraphSummarizer,
+    SummarizerBase,
+    RandomSummarizer,
+    TFSummarizer,
+    TFIDFSummarizer
+)
 from intersection import IntersectionSummarizer
 import sys
 
@@ -42,14 +48,18 @@ def verify_truths(policydir, truthdir):
         for t_s in t_sents:
             if t_s not in p_sents:
                 e_str = 'Error with truth %s. ' % f
-                e_str += 'The following not found in policy sentences. \n%s' % t_s
+                e_str += 'The following not found in policy sentences.\
+                          \n%s' % t_s
                 raise Exception(e_str)
 
 
 verify_truths(policydir=policy_dir, truthdir=truth_dir)
 test_classes = [
+    RandomSummarizer(),
     ParagraphSummarizer(),
-    IntersectionSummarizer()
+    IntersectionSummarizer(),
+    TFSummarizer(),
+    TFIDFSummarizer(corpus_dir=policy_dir)
 ]
 
 for summarizer in test_classes:
