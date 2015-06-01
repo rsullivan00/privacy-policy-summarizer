@@ -1,10 +1,12 @@
 import os
 from summarize import (
     ParagraphSummarizer,
+    FirstOccurrenceSummarizer,
     SummarizerBase,
     RandomSummarizer,
     TFSummarizer,
-    TFIDFSummarizer
+    TFIDFSummarizer,
+    TFIDFCSummarizer
 )
 from intersection import IntersectionSummarizer
 import sys
@@ -57,9 +59,11 @@ verify_truths(policydir=policy_dir, truthdir=truth_dir)
 test_classes = [
     RandomSummarizer(),
     ParagraphSummarizer(),
+    FirstOccurrenceSummarizer(),
     IntersectionSummarizer(),
     TFSummarizer(),
-    TFIDFSummarizer(corpus_dir=policy_dir)
+    TFIDFSummarizer(),
+    TFIDFCSummarizer(corpus_dir=policy_dir)
 ]
 
 for summarizer in test_classes:

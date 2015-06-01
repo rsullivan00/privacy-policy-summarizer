@@ -4,6 +4,7 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
+from utils import ctr_len
 import random
 import numpy as np
 import os
@@ -71,8 +72,32 @@ class SummarizerBase(object):
 class ParagraphSummarizer(SummarizerBase):
     def summarize(self, input, numpoints=5):
         """
-        Process a string containing the text of a privacy policy, returning
-        a list of important sentences.
+        Uses the first sentences of paragraphs to summarize.
+        Tries longer paragraphs first.
+        """
+
+        p_len = 4
+        paragraphs = self.split_content_to_paragraphs(input)
+        paragraphs = [self.split_content_to_sentences(p) for p in paragraphs]
+
+        summary = []
+        while len(summary) < numpoints:
+            ps_filtered = [p for p in paragraphs if len(p) > p_len]
+
+            for p in ps_filtered:
+                if len(summary) >= numpoints:
+                    break
+                summary.append(p[0])
+            p_len -= 1
+
+        return '\n\n'.join(summary)
+
+
+class FirstOccurrenceSummarizer(SummarizerBase):
+    def summarize(self, input, numpoints=5):
+        """
+        Returns n sentences as a summary, where each of the sentences is the
+        first to contain one of the top n most common tokens in the text.
         """
 
         tokens = self.content_to_stemmed_tokens(input)
@@ -90,12 +115,10 @@ class ParagraphSummarizer(SummarizerBase):
 
 
 class RandomSummarizer(SummarizerBase):
+    """
+    Chooses n random sentences for summary.
+    """
     def summarize(self, input, numpoints=5):
-        """
-        Process a string containing the text of a privacy policy, returning
-        a list of important sentences.
-        """
-
         sentences = self.split_content_to_sentences(input)
 
         summary = []
@@ -108,24 +131,22 @@ class RandomSummarizer(SummarizerBase):
 
 
 class TFSummarizer(SummarizerBase):
-    def tf(self, term, s):
-        return s.count(term)/len(s)
+    """
+    Ranks sentences by term frequency of the most common tokens.
+    """
+    def tf(self, term, s_toks):
+        return s_toks[term]/ctr_len(s_toks)
 
-    def score(self, query_list, doc):
-        if len(query_list) == 0 or len(doc) == 0:
+    def score(self, query_list, doc_toks):
+        if len(query_list) == 0 or len(doc_toks) == 0:
             return 0
         result = 1
         for query in query_list:
-            result = result * self.tf(query, doc)
+            result = result * self.tf(query, doc_toks)
 
         return result
 
     def summarize(self, input, numpoints=5):
-        """
-        Process a string containing the text of a privacy policy, returning
-        a list of important sentences.
-        """
-
         sentences = self.split_content_to_sentences(input)
         tokens = self.content_to_stemmed_tokens(input)
 
@@ -133,7 +154,8 @@ class TFSummarizer(SummarizerBase):
         query_toks = [x[0] for x in tokens.most_common(numpoints)]
         scored_sentences = []
         for s in sentences:
-            score = self.score(query_toks, s)
+            s_toks = self.content_to_stemmed_tokens(s)
+            score = self.score(query_toks, s_toks)
             scored_sentences.append((score, s))
 
         scored_sentences.sort(key=lambda tup: tup[0])
@@ -142,28 +164,52 @@ class TFSummarizer(SummarizerBase):
         return '\n\n'.join(summary)
 
 
-class TFIDFSummarizer(TFSummarizer):
+class TFIDFCalculator(object):
+    def idf(self, tok, corpus):
+        """
+        log(Total # of documents/# documents with term)
+
+        idf values are memoized for efficiency.
+        """
+        if not hasattr(self, 'corpus_idf'):
+            self.corpus_idf = {}
+
+        if tok not in self.corpus_idf:
+            self.corpus_idf[tok] = np.log(ctr_len(corpus) /
+                                          (corpus[tok]))
+
+        return self.corpus_idf[tok]
+
+    def tf_idf(self, term, doc, corpus):
+        return self.tf(term, doc) * self.idf(term, corpus)
+
+
+class TFIDFSummarizer(TFSummarizer, TFIDFCalculator):
+    def score(self, query_list, doc):
+        if len(query_list) == 0 or len(doc) == 0:
+            return 0
+        result = 0
+        for query in query_list:
+            result = result + self.tf_idf(query, doc, self.corpus)
+
+        return result
+
+    def summarize(self, input, numpoints=5):
+        self.corpus = self.content_to_stemmed_tokens(input)
+        return super().summarize(input, numpoints)
+
+
+class TFIDFCSummarizer(TFSummarizer, TFIDFCalculator):
     def __init__(self, corpus_dir):
         super().__init__()
-        self.corpus = []
+        self.corpus = Counter()
         for f in os.listdir(corpus_dir):
             filepath = os.path.join(corpus_dir, f)
             policy = self.read_policy(filepath)
             sentences = self.split_content_to_sentences(policy)
             sentences = [self.content_to_stemmed_tokens(s) for s in sentences]
-            self.corpus.extend(sentences)
-
-    def idf(self, term, corpus):
-        """
-        log(Total # of documents/# documents with term)
-        """
-        # TODO: Need to memoize this information
-        return np.log(len(corpus)/(1 + len(
-            [1 for doc in corpus if term in doc])))
-
-    def tf_idf(self, term, doc, corpus):
-        # print(self.tf(term, doc), self.idf(term, corpus))
-        return self.tf(term, doc) * self.idf(term, corpus)
+            for s in sentences:
+                self.corpus += s
 
     def score(self, query_list, doc):
         if len(query_list) == 0 or len(doc) == 0:
@@ -175,5 +221,4 @@ class TFIDFSummarizer(TFSummarizer):
         return result
 
     def summarize(self, input, numpoints=5):
-        # self.corpus = self.content_to_stemmed_tokens(input)
         return super().summarize(input, numpoints)
