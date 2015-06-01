@@ -5,6 +5,7 @@ from summarize import (
     SummarizerBase,
     RandomSummarizer,
     TFSummarizer,
+    SigFactorSummarizer,
     TFIDFSummarizer,
     TFIDFCSummarizer
 )
@@ -61,6 +62,7 @@ test_classes = [
     ParagraphSummarizer(),
     FirstOccurrenceSummarizer(),
     IntersectionSummarizer(),
+    SigFactorSummarizer(),
     TFSummarizer(),
     TFIDFSummarizer(),
     TFIDFCSummarizer(corpus_dir=policy_dir)

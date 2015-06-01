@@ -46,7 +46,9 @@ class SummarizerBase(object):
 
     # Naively split paragraphs.
     def split_content_to_paragraphs(self, content):
-        return content.split("\n\n")
+        ps = content.split("\n\n")
+        ps = [p for p in ps if len(p) > 0]
+        return ps
 
     def split_content_to_tokens(self, content):
         tokenizer = RegexpTokenizer(r'\w+')
@@ -81,13 +83,15 @@ class ParagraphSummarizer(SummarizerBase):
         paragraphs = [self.split_content_to_sentences(p) for p in paragraphs]
 
         summary = []
-        while len(summary) < numpoints:
+        while len(summary) < numpoints and p_len > 0:
             ps_filtered = [p for p in paragraphs if len(p) > p_len]
 
             for p in ps_filtered:
                 if len(summary) >= numpoints:
                     break
-                summary.append(p[0])
+                # Don't add duplicates
+                if p[0] not in summary:
+                    summary.append(p[0])
             p_len -= 1
 
         return '\n\n'.join(summary)
@@ -130,9 +134,41 @@ class RandomSummarizer(SummarizerBase):
         return '\n\n'.join(summary)
 
 
+class SigFactorSummarizer(SummarizerBase):
+    """
+    Ranks sentences by Luhn's significance factor.
+    """
+    def score(self, query_toks, doc_toks):
+        if len(query_toks) == 0 or len(doc_toks) == 0:
+            return 0
+
+        result = sum([doc_toks[qt] for qt in query_toks])
+        result = (result * result)/len(doc_toks)
+
+        return result
+
+    def summarize(self, input, numpoints=5):
+        sentences = self.split_content_to_sentences(input)
+        tokens = self.content_to_stemmed_tokens(input)
+        sig_toks = tokens.most_common(1 + int(np.log(ctr_len(tokens))))
+        sig_toks = [tup[0] for tup in sig_toks]
+
+        scored_sentences = []
+        for s in sentences:
+            s_toks = self.content_to_stemmed_tokens(s)
+            score = self.score(sig_toks, s_toks)
+            scored_sentences.append((score, s))
+
+        scored_sentences.sort(key=lambda tup: tup[0])
+        summary = [tup[1] for tup in scored_sentences[-numpoints:]]
+
+        return '\n\n'.join(summary)
+
+
+# TODO: Add smoothing
 class TFSummarizer(SummarizerBase):
     """
-    Ranks sentences by term frequency of the most common tokens.
+    Ranks sentences by term frequency.
     """
     def tf(self, term, s_toks):
         return s_toks[term]/ctr_len(s_toks)
